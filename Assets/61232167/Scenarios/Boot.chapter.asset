@@ -54,7 +54,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .5
+      - .7
       - 
       - A2.png
       isEmpty: 0
@@ -70,7 +70,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .5
+      - .7
       - 
       - A1.png
       isEmpty: 0
@@ -146,7 +146,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .5
+      - .7
       - 
       - B1.png
       isEmpty: 0
@@ -162,7 +162,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .5
+      - .7
       - 
       - B2.png
       isEmpty: 0
@@ -220,9 +220,24 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u6559\u5BA4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Gemini_Generated_Image_3ujvje3ujvje3ujv.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232167/Scenarios/61232167.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 159
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 55b46193ba231f042b8c78ee0639cf24, type: 3}
   - rows:
@@ -263,9 +278,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E2D\u9593"
+      - Character
+      - 0
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5DE6\u908A"
+      - Character
+      - -250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u53F3\u908A"
+      - Character
+      - 250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232167/Scenarios/61232167.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 162
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 55b46193ba231f042b8c78ee0639cf24, type: 3}
   - rows:

@@ -36,8 +36,8 @@ MonoBehaviour:
     - rowIndex: 1
       debugIndex: 1
       strings:
-      - Bg
-      - "\u6559\u5BA4"
+      - Bgm
+      - bgm1
       - 
       - 
       isEmpty: 0
@@ -46,15 +46,10 @@ MonoBehaviour:
     - rowIndex: 2
       debugIndex: 2
       strings:
-      - 
-      - "\u6797\u4F0A"
-      - "\u4E00\u822C"
-      - "\u4E2D\u9593"
+      - Bg
+      - "\u6559\u5BA4"
       - 
       - 
-      - 
-      - 
-      - "\u54C8~~\u597D\u7D2F\u5594"
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -69,12 +64,31 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u7D42\u65BC\u4E0A\u5B8C\u8AB2\u4E86\uFF0C\u53EF\u4EE5\u56DE\u5BB6\u597D\u597D\u4F11\u606F\u4E86"
+      - "\u54C8~~\u597D\u7D2F\u5594"
+      - 
+      - 1
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 4
       debugIndex: 4
+      strings:
+      - 
+      - "\u6797\u4F0A"
+      - "\u4E00\u822C"
+      - "\u4E2D\u9593"
+      - 
+      - 
+      - 
+      - 
+      - "\u7D42\u65BC\u4E0A\u5B8C\u8AB2\u4E86\uFF0C\u53EF\u4EE5\u56DE\u5BB6\u597D\u597D\u4F11\u606F\u4E86"
+      - 
+      - 2
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
       strings:
       - 
       - "\u9752"
@@ -88,8 +102,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 5
-      debugIndex: 5
+    - rowIndex: 6
+      debugIndex: 6
       strings:
       - 
       - "\u6797\u4F0A"
@@ -103,8 +117,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 6
-      debugIndex: 129
+    - rowIndex: 7
+      debugIndex: 130
       strings:
       - EndScenario
       isEmpty: 0
@@ -112,7 +126,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232167/Scenarios/61232167.xls:Start
     type: 1
-    textLength: 155
+    textLength: 164
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 55b46193ba231f042b8c78ee0639cf24, type: 3}
     entityIndexTbl: 
@@ -582,9 +596,19 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - bgm1
+      - 
+      - Bgm
+      - 1.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232167/Scenarios/61232167.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 49
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 55b46193ba231f042b8c78ee0639cf24, type: 3}
   - rows:
@@ -714,8 +738,8 @@ MonoBehaviour:
     - rowIndex: 1
       debugIndex: 1
       strings:
-      - Bg
-      - "\u6559\u5BA4"
+      - Bgm
+      - bgm1
       - 
       - 
       isEmpty: 0
@@ -724,15 +748,10 @@ MonoBehaviour:
     - rowIndex: 2
       debugIndex: 2
       strings:
-      - 
-      - "\u6797\u4F0A"
-      - "\u4E00\u822C"
-      - "\u4E2D\u9593"
+      - Bg
+      - "\u6559\u5BA4"
       - 
       - 
-      - 
-      - 
-      - "\u54C8~~\u597D\u7D2F\u5594"
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -747,12 +766,31 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u7D42\u65BC\u4E0A\u5B8C\u8AB2\u4E86\uFF0C\u53EF\u4EE5\u56DE\u5BB6\u597D\u597D\u4F11\u606F\u4E86"
+      - "\u54C8~~\u597D\u7D2F\u5594"
+      - 
+      - 1
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 4
       debugIndex: 4
+      strings:
+      - 
+      - "\u6797\u4F0A"
+      - "\u4E00\u822C"
+      - "\u4E2D\u9593"
+      - 
+      - 
+      - 
+      - 
+      - "\u7D42\u65BC\u4E0A\u5B8C\u8AB2\u4E86\uFF0C\u53EF\u4EE5\u56DE\u5BB6\u597D\u597D\u4F11\u606F\u4E86"
+      - 
+      - 2
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
       strings:
       - 
       - "\u9752"
@@ -766,8 +804,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 5
-      debugIndex: 5
+    - rowIndex: 6
+      debugIndex: 6
       strings:
       - 
       - "\u6797\u4F0A"
@@ -779,12 +817,6 @@ MonoBehaviour:
       - 
       - "\u4F60\u9084\u662F\u4E00\u5982\u5F80\u5E38\u7684\u5143\u6C23\u6EFF\u6EFF\u5462"
       isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 6
-      debugIndex: 6
-      strings: []
-      isEmpty: 1
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 7
@@ -957,6 +989,12 @@ MonoBehaviour:
       debugInfo: 
     - rowIndex: 35
       debugIndex: 35
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
       strings:
       - 
       - 
@@ -967,12 +1005,6 @@ MonoBehaviour:
       - 
       - 
       - 
-      isEmpty: 1
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 36
-      debugIndex: 36
-      strings: []
       isEmpty: 1
       isCommentOut: 0
       debugInfo: 
@@ -1044,6 +1076,12 @@ MonoBehaviour:
       debugInfo: 
     - rowIndex: 48
       debugIndex: 48
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 49
+      debugIndex: 49
       strings:
       - 
       - 
@@ -1054,12 +1092,6 @@ MonoBehaviour:
       - 
       - 
       - 
-      isEmpty: 1
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 49
-      debugIndex: 49
-      strings: []
       isEmpty: 1
       isCommentOut: 0
       debugInfo: 
@@ -1101,6 +1133,12 @@ MonoBehaviour:
       debugInfo: 
     - rowIndex: 56
       debugIndex: 56
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 57
+      debugIndex: 57
       strings:
       - 
       - 
@@ -1111,12 +1149,6 @@ MonoBehaviour:
       - 
       - 
       - 
-      isEmpty: 1
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 57
-      debugIndex: 57
-      strings: []
       isEmpty: 1
       isCommentOut: 0
       debugInfo: 
@@ -1134,6 +1166,12 @@ MonoBehaviour:
       debugInfo: 
     - rowIndex: 60
       debugIndex: 60
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 61
+      debugIndex: 61
       strings:
       - 
       - 
@@ -1144,12 +1182,6 @@ MonoBehaviour:
       - 
       - 
       - 
-      isEmpty: 1
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 61
-      debugIndex: 61
-      strings: []
       isEmpty: 1
       isCommentOut: 0
       debugInfo: 
@@ -1557,6 +1589,12 @@ MonoBehaviour:
       debugInfo: 
     - rowIndex: 129
       debugIndex: 129
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 130
+      debugIndex: 130
       strings:
       - EndScenario
       isEmpty: 0
@@ -1564,6 +1602,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232167/Scenarios/61232167.xls:Start
     type: 1
-    textLength: 155
+    textLength: 164
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 55b46193ba231f042b8c78ee0639cf24, type: 3}

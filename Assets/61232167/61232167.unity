@@ -5733,9 +5733,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.011111122
+    x: 0.00033669212
     y: 0
-    width: 0.9777778
+    width: 0.9993266
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -16277,7 +16277,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b18a142c25648dc4f86209283a1df5cf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 00f8cfd4773aa864ba1cf0182bca615f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -21881,7 +21881,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b18a142c25648dc4f86209283a1df5cf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 00f8cfd4773aa864ba1cf0182bca615f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -28131,9 +28131,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.011111122
+    x: 0.00033669212
     y: 0
-    width: 0.9777778
+    width: 0.9993266
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -29637,7 +29637,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b18a142c25648dc4f86209283a1df5cf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 00f8cfd4773aa864ba1cf0182bca615f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -30903,7 +30903,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 83fc0e8e2565f6348a2098f58e5df939, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fe9ec66b75e97e14991a66ed69cf549c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -31143,7 +31143,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b18a142c25648dc4f86209283a1df5cf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 00f8cfd4773aa864ba1cf0182bca615f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
